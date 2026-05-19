@@ -3,16 +3,12 @@
 **A Practical Perspective**
 
 *5 min read*
-
+![Turning legacy black boxes into evolving systems](./images/hero.png)
 ---
 
-> 📋 **HOW TO USE THIS FILE**
-> This is your article content formatted for the LinkedIn Article editor. Copy each section into LinkedIn one block at a time.
->
 > **Three image placement points are marked in this file:**
-> - 🎨 **COVER IMAGE** — upload `Hero_Image_LinkedIn.png` as the article's cover (the big image at the top)
-> - 🖼️ **INLINE DIAGRAM** — upload `Flow_Diagram_LinkedIn.png` in the "How it all connects" section
-> - 🎯 **CLOSING IMAGE** — upload `Closing_Image_LinkedIn.png` just before "The bottom line" section
+> - ![The modernization flow](./images/flow-diagram.png) in the "How it all connects" section
+> - ![Stop measuring AI by lines generated. Measure it by decisions enabled.](./images/closing.png) just before "The bottom line" section
 >
 > Watch for the 💬 marker — that's the recommended "spotlight quote" you can highlight in LinkedIn's editor.
 >
@@ -82,7 +78,7 @@ Senior engineers' time stops being burned on "how does X work?" — and that's a
 
 These four shifts aren't independent. They form a single, repeatable flow:
 
-🖼️ **INSERT INLINE DIAGRAM HERE** → upload `Flow_Diagram_LinkedIn.png`
+![The modernization flow](./images/flow-diagram.png)
 
 *Caption (add as italic text under the image): Phase 1 produces knowledge. Phase 2 produces code. CLAUDE.md outlives both.*
 
@@ -103,7 +99,7 @@ A practical perspective has to acknowledge what Claude Code won't do for you:
 
 ---
 
-🎯 **INSERT CLOSING IMAGE HERE** → upload `Closing_Image_LinkedIn.png`
+![Stop measuring AI by lines generated. Measure it by decisions enabled.](./images/closing.png)
 
 *Caption (add as italic text under the image): The shift isn't about coding speed — it's about what AI lets you decide.*
 
