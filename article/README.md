@@ -6,10 +6,6 @@
 ![Turning legacy black boxes into evolving systems](./images/hero.png)
 ---
 
-> **Three image placement points are marked in this file:**
-> - ![The modernization flow](./images/flow-diagram.png) in the "How it all connects" section
-> - ![Stop measuring AI by lines generated. Measure it by decisions enabled.](./images/closing.png) just before "The bottom line" section
->
 > Watch for the 💬 marker — that's the recommended "spotlight quote" you can highlight in LinkedIn's editor.
 >
 > Suggested article title (for the LinkedIn editor title field):
