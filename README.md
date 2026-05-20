@@ -13,7 +13,7 @@ A practical perspective on using AI coding tools to modernize legacy enterprise 
 
 | What | Where | For who |
 |---|---|---|
-| 📄 **The article** (5-min read) | [`article/README.md`](./article/README.md) | Engineering leaders, CIOs, architects |
+| 📄 **The article** (5-min read) | [`article/README.md`](./article/README.md) | Engineering leaders, CIOs, architects, Software Engineers |
 | 📋 **CLAUDE.md templates** | [`claude-md/`](./claude-md/) | Developers, modernization teams |
 | 🐾 **Hands-on demo** (Spring PetClinic, 30 min) | [`demo/DEMO.md`](./demo/DEMO.md) | Developers wanting to try this themselves |
 
